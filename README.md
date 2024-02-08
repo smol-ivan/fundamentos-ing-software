@@ -1,6 +1,18 @@
 # Manual de uso
 
-## Instrucciones
+## Instrucciones de descarga
+
+- La aplicacion funciona de manera local, lo cual es necesario clonar el repositorio, los pasos son los siguientes
+1. Desde la terminal tenemos que estar en la carpeta donde queremos que se descargue el repositorio, por ejemplo
+    ```console
+    @smol-ivan ➜ /workspaces $ 
+    ```
+2. Solo queda hacer gir clone al respositorio
+    ```console
+    git clone https://github.com/smol-ivan/fundamentos-ing-software.git
+    ```
+    
+## Instrucciones de Uso
 
 1. Para la ejecucion de la aplicacion se hace desde el archivo que llama por nombre `main.py` que se encuentra alojado en la carpeta `/src` de este repositorio
     ```console
