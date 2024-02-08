@@ -9,8 +9,8 @@
     > La llamada al programa con python puede variar dependiento el sistema `python`, `python3`
 2. Una vez iniciada la aplicacion se pedira el inicio de sesion para acceder a las funcionalidades
     - <sub>Por motivos de practica el sistema ya considera a un solo empleado, que se identifica en el sistema como:</sub>
-    <sub>ID : empleado1</sub>
-    <sub>PIN: 1235</sub>
+        - <sub>ID : `empleado1`</sub>
+        - <sub>PIN: `1235`</sub>
 3. Cuando se verifique el usuario, se da acceso a los submenus del sistema. Para navegar en la interfaz solo basta teclear la opcion deseada
 4. Para el menu almacenamiento las operaciones que requieran hacer cambios(alta, baja, modificar) una vez realizada la operacion el sistema guarda actualiza automaticamente la base de datos
 
